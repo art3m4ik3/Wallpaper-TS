@@ -1,0 +1,27 @@
+{
+    "name": "next-wallpaper",
+    "version": "1.0.0",
+    "author": "art3m4ik3",
+    "description": "Wallpaper made with NextJS",
+    "license": "MIT",
+    "scripts": {
+        "dev": "next dev",
+        "build": "next build",
+        "start": "next start",
+        "lint": "next lint"
+    },
+    "dependencies": {
+        "next": "13.4.19",
+        "react": "18.2.0",
+        "react-dom": "18.2.0"
+    },
+    "devDependencies": {
+        "@types/node": "20.5.1",
+        "@types/react": "18.2.20",
+        "@types/react-dom": "18.2.7",
+        "autoprefixer": "^10.4.20",
+        "postcss": "^8.4.41",
+        "tailwindcss": "^3.4.9",
+        "typescript": "5.1.6"
+    }
+}
